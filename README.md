@@ -12,7 +12,7 @@ Aplikasi web yang memungkinkan user untuk melihat inventaris barang dan admin un
 **📚 Mata Kuliah:** Praktikum Proyek Perangkat Lunak  
 **👨‍🎓 Mahasiswa:**
     **- Ganang Setyo Hadi (2208107010052)**
-    **- Alfi Zamriza (22081070100)**
+    **- Alfi Zamriza (2208107010080)**
     **- Farhanul Khair (2208107010076)**<br>
 **📅 Tahun Akademik:** 2024/2025  
 
