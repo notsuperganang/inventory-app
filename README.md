@@ -13,7 +13,7 @@ Aplikasi web yang memungkinkan user untuk melihat inventaris barang dan admin un
 **👨‍🎓 Mahasiswa:**
     **- Ganang Setyo Hadi (2208107010052)**
     **- Alfi Zamriza (22081070100)**
-    **- Farhanul Khair (2208107010076)**
+    **- Farhanul Khair (2208107010076)**<br>
 **📅 Tahun Akademik:** 2024/2025  
 
 ---
